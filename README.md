@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Von <img src="https://media.giphy.com/media/RxAdKu5nrs32vhKEUq/giphy.gif" width="30"></h1>
+
+<img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
+<p><em>Electronics and Communication Engineering Graduate <img src="https://media.giphy.com/media/ghg6EzNlZWUdvmH30J/giphy.gif" width="30"> </br> DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p> </br></br>
+
+### 💬 Connect with me ...
+
+[![Linkedin: vonsalumbides](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/von-salumbides-1a7b731b1)
+<a href="mailto:vonsalumbides.devops@gmail.com?subject=Hi! Found you on Github!" rel="nofollow noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=20> </a> <img src="https://komarev.com/ghpvc/?username=von-salumbides" alt="vonsalumbides" /> 
 
 <!--
-**salumbidesvon/salumbidesvon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**von-salumbides/von-salumbides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
